@@ -1,4 +1,10 @@
-### Hi there I'm Marcos Henrique, aspiring Python programmer and Data Scientist!
+
+Hello, world! :wave:	 
+
+### I'm Marcos Henrique, aspiring Data Scientist!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=For+those+who+prove+worthy;Paradise+awaits!)](https://git.io/typing-svg)
+
 
 ##
 

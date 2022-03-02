@@ -15,6 +15,7 @@
 I am a 25 year old civil engineer who decided to start a journey to become a Data Scientist, when I discovered that there is an area that for you to be good, you need to be curious and like math, I fell in love right away. :heart_eyes:
 
 :seedling: ...Currently studying Python and SQL. 
+  
 :books: ...I love science fiction books, especially Cyberpunk books.
     
 </div> 

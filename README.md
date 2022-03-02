@@ -8,6 +8,7 @@
 
 ##
 
+<div align="center">
 <div align="">
   <a href="https://linktr.ee/marcos_hsq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>

@@ -15,6 +15,7 @@
 I am a 25 year old civil engineer who decided to start a journey to become a Data Scientist, when I discovered that there is an area that for you to be good, you need to be curious and like math, I fell in love right away. :heart_eyes:
 
 :seedling: ...Currently studying Python and SQL. 
+:books: ...I love science fiction books, especially Cyberpunk books.
     
 </div> 
   
@@ -41,11 +42,9 @@ I am a 25 year old civil engineer who decided to start a journey to become a Dat
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
   <a href="https://medium.com/@marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
   <a href="https://www.goodreads.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a>
-  
  <a href = "mailto:marcoshsq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>

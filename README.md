@@ -55,6 +55,30 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
   
   </div>
 
+---
+  
+<div align="left">
+  
+### About me:
+  
+Civil engineer who decided to start a journey to become a Data Scientist, when I discovered that there is an field where to be good, you need to be curious and like math, I fell in love right away. :heart_eyes: 
+  
+<div> 
+    <b>About Me:</b>
+    <ul>
+      <li>🔭 I'm currently seeking a Data Science/Analytics entry level job</li>
+      <li>🌱 I’m currently studying Python and SQL</li>
+      <li>👯 I’m looking to collaborate on any work with big value to my career</li>
+    <!-- 🤔 I’m looking for help with ...-->
+      <li>💬 Ask me about anything you need help, If you can help I'll be very happy</li>
+      <li>🎮 I like games, anime and music, so if you like it too, we already have something to talk about </li>
+      <li>📚 But my passion is reading, I love books, literature, philosophy and horror novels</li>
+      <li>📚 However, my addiction is science fiction books, especially Cyberpunk ❤️❤️❤️</li>
+    </ul>
+</div>
+
+---
+  
  
 <div align="center">
   

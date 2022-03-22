@@ -62,10 +62,16 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
   ![Snake animation](https://github.com/marcoshsq/marcoshsq/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-<hr>   
+    
+<hr>       
+
+![xK](https://user-images.githubusercontent.com/64812097/159572273-0fc148a6-3594-480d-9204-fcd4a9effc46.gif)
+    
+<hr>      
+    
 <div align="right">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)
-  
-  
+    
 </div>
+

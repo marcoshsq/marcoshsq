@@ -2,7 +2,7 @@
 
 ## Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:	
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines="For+those+who+prove+worthy...;...Paradise+awaits!")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines="For+those+who+prove+worthy...;...Paradise+awaits!")](https://git.io/typing-svg)
 
 </div>
 

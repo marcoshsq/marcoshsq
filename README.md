@@ -35,12 +35,10 @@
  <hr>
   
 <div align="left">
+
 ### About me:
   
 Civil engineer who decided to start a journey to become a Data Scientist, when I discovered that there is an field where to be good, you need to be curious and like math, I fell in love right away. :heart_eyes: 
-  
-<div> 
-    <b>About Me:</b>
     <ul>
       <li>🔭 I'm currently seeking a Data Science/Analytics entry level job</li>
       <li>🌱 I’m currently studying Python and SQL</li>

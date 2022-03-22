@@ -24,7 +24,6 @@
 <img align="center" alt="Marcos-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Marcos-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="center" alt="Marcos-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />               
-<img align="right" alt="Marcos-Jupyter" width="350" src=https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold&color=AF69F7&lines=Programming+languages,;tools+and+technologies,;that+I+use+or+am+studying. />
 
  </div> 
 
@@ -36,7 +35,7 @@
   <a href="https://linktr.ee/marcos_hsq" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
    <a href="https://public.tableau.com/app/profile/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
-   <img align="right" alt="Marcos-Jupyter" width="350" src=https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold&color=AF69F7&lines=Want+to+get+in+touch?;You+can+find+me+here. />
+   
 </div>
 
  <hr>

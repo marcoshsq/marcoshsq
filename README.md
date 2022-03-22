@@ -2,7 +2,7 @@
 
 ## Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:	
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Passionate+about+Data;Interested+in;Computational+Intelligence;Data+Science;Mathematics+and+Statistics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold&color=AF69F7&lines=Passionate+about+Data;Interested+in;Computational+Intelligence;Data+Science;Mathematics+and+Statistics.)](https://git.io/typing-svg)
 
 </div> 
 
@@ -68,6 +68,6 @@ I am a 25 year old civil engineer who decided to start a journey to become a Dat
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼...;...𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀!)](https://git.io/typing-svg)
   
 
-  
+𝑺𝑬𝑬 𝒀𝑶𝑼, 𝑺𝑷𝑨𝑪𝑬 𝑪𝑶𝑾𝑩𝑶𝒀!
   
 </div>

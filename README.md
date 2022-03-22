@@ -31,7 +31,7 @@
     
  <div align="left"> 
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discordapp.com/users/724719352917524590/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   <a href="https://linktr.ee/marcos_hsq" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
    <a href="https://public.tableau.com/app/profile/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
@@ -46,14 +46,14 @@
   
 Civil engineer who decided to start a journey to become a Data Scientist, when I discovered that there is an field where to be good, you need to be curious and like math, I fell in love right away. :heart_eyes: 
     <ul>
-      <li>🔭 I'm currently seeking a Data Science/Analytics entry level job</li>
-      <li>🌱 I’m currently studying Python and SQL</li>
-      <li>👯 I’m looking to collaborate on any work with big value to my career</li>
-    <!-- 🤔 I’m looking for help with ...-->
-      <li>💬 Ask me about anything you need help, If you can help I'll be very happy</li>
-      <li>🎮 I like games, anime and music, so if you like it too, we already have something to talk about </li>
-      <li>📚 But my passion is reading, I love books, literature, philosophy and horror novels</li>
-      <li>📚 However, my addiction is science fiction books, especially Cyberpunk ❤️❤️❤️</li>
+      <li>🔭 ...I'm currently seeking a Data Science/Analytics entry level job.</li>
+      <li>🌱 ...I’m currently studying Python and SQL.</li>
+      <li>👯 ...I’m looking to collaborate on any work with big value to my career.</li>
+      <li>💬 ...Ask me about anything you need help, If you can help I'll be very happy.</li>
+      <li>🎮 ...I like games, anime and music, so if you like it too, we already have something to talk about.</li>
+      <li>📚 ...But my passion is reading, I love books, literature, philosophy and horror novels.</li>
+      <li>📚 ...However, my addiction is science fiction books, especially Cyberpunk. ❤️❤️❤️</li>
+      <li>💬 ...My discord ID is: marcoshsq#0571 If you want to chat.</li>
     </ul>
 </div>
 <hr>  

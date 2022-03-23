@@ -37,7 +37,8 @@
   <a href="https://linktr.ee/marcos_hsq" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
    <a href="https://public.tableau.com/app/profile/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
-   <a href="https://efemeridadescompartilhadas.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
+   <a href="https://stackoverflow.com/users/17775858/marcos-henrique" target="_blank"><img src=" https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+   <a href="http://goodreads.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a>
 
    
 </div>

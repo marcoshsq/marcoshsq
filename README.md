@@ -56,7 +56,7 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
       <li>💬 ...Ask me about anything, If I can help, I'll be very happy.</li>
       <li>🎮 ...I like games, anime and music, so if you like it too, we already have something to talk about.</li>
       <li>📚 ...But my passion is reading, I love books, literature, philosophy and horror novels.</li>
-      <li>📚 ...However, my addiction is science fiction books, especially Cyberpunk. ❤️❤️❤️</li>
+      <li>📚 ...However, my addiction is in science fiction, especially Cyberpunk. ❤️❤️❤️</li>
       <li>💬 ...My discord ID is: marcoshsq#0571 If you want to chat.</li>
     </ul>
 </div>

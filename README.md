@@ -34,11 +34,11 @@
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
-  <a href="https://linktr.ee/marcos_hsq" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
    <a href="https://public.tableau.com/app/profile/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
-   <a href="https://stackoverflow.com/users/17775858/marcos-henrique" target="_blank"><img src=" https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
    <a href="http://goodreads.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a>
+   <a href="https://stackoverflow.com/users/17775858/marcos-henrique" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+
 
    
 </div>

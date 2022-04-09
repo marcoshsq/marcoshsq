@@ -64,7 +64,7 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
     
 <br>
       
-<h2 align="left">⚡ Main Repositories</h2>  
+<h2 align="left">⚡ Main Repositories:</h2>  
 
 <div align="center"> 
   <a href="https://github.com/marcoshsq/DS_Degree_Curriculum_Portfolio">

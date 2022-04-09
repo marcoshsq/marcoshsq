@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold&color=CB27F7&lines=Passionate+about+Data;Interested+in;Artificial+Intelligence;Data+Science;Mathematics+and+Statistics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold7&color=F7F7F7&lines=Passionate+about+Data;Interested+in;Artificial+Intelligence;Data+Science;Mathematics+and+Statistics.)](https://git.io/typing-svg)
 
 <h2 align="left">:page_with_curl: About me:</h2>
 
@@ -58,8 +58,8 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 
 <div align="center">
     <a href="https://linktr.ee/marcos_hsq">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=7&theme=synthwave"/>   
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=7&theme=github_dark"/>   
   <div style="display: inline_block"> 
 
   ![Snake animation](https://github.com/marcoshsq/marcoshsq/blob/output/github-contribution-grid-snake.svg)
@@ -71,10 +71,10 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 
 <div align="center"> 
   <a href="https://github.com/marcoshsq/DS_Degree_Curriculum_Portfolio">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=DS_Degree_Curriculum_Portfolio&theme=synthwave" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=DS_Degree_Curriculum_Portfolio&theme=github_dark" />
   </a>
   <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=synthwave" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=github_dark" />
   </a>
 </div>
 

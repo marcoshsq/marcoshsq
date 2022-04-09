@@ -67,7 +67,7 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 </div>
 
 <br>
-
+<!--
 <h2 align="left">⚡ Main Repositories:</h2>  
 
 <div align="center"> 
@@ -78,7 +78,7 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=tokyonight" />
   </a>
 </div>
-
+-->
 ---
 
 ![xK](https://user-images.githubusercontent.com/64812097/159572273-0fc148a6-3594-480d-9204-fcd4a9effc46.gif)

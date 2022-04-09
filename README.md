@@ -41,7 +41,7 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 
 <br>
 
-<h2 align="left">:electron: You can find me:</h2>
+<h2 align="left">💬 You can find me:</h2>
 
  <div align="left"> 
    <a href="https://instagram.com/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

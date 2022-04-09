@@ -1,11 +1,11 @@
 <div align="left">
 
 <h2 align="left">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h2>
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold&color=AF69F7&lines=Passionate+about+Data;Interested+in;Artificial+Intelligence;Data+Science;Mathematics+and+Statistics.)](https://git.io/typing-svg)
-  
+
 <h2 align="left">:page_with_curl: About me:</h2>
-  
+
 Civil engineer who decided to start a journey to become a Data Scientist, when I discovered that there is an field where to be good, you need to be curious and like math, I fell in love right away. :heart_eyes: 
     <ul>
       <li>🔭 ...I'm currently seeking a Data Science/Analytics entry level job.</li>
@@ -18,7 +18,7 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
       <li>💬 ...My discord ID is: marcoshsq#0571 If you want to chat.</li>
     </ul>
 </div>
- 
+
 <br>
 
 <h2 align="left">:hammer_and_wrench: Technologies and tools:</h2>
@@ -38,9 +38,6 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 <img align="center" alt="Marcos-pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="center" alt="Marcos-tensorflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="center" alt="Marcos-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="center" alt="Marcos-pycharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="center" alt="Marcos-Kaggle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
-
 </div> 
 
 <br>
@@ -65,12 +62,12 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=7&theme=tokyonight"/>   
   <div style="display: inline_block"> 
-   
+
   ![Snake animation](https://github.com/marcoshsq/marcoshsq/blob/output/github-contribution-grid-snake.svg)
 </div>
-    
+
 <br>
-      
+
 <h2 align="left">⚡ Main Repositories:</h2>  
 
 <div align="center"> 
@@ -81,15 +78,15 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=tokyonight" />
   </a>
 </div>
-    
+
 ---
 
 ![xK](https://user-images.githubusercontent.com/64812097/159572273-0fc148a6-3594-480d-9204-fcd4a9effc46.gif)
-    
+
 <hr>      
-    
+
 <div align="right">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)
-    
+
 </div>

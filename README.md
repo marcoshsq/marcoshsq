@@ -70,11 +70,11 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 <h2 align="left">⚡ Main Repositories:</h2>  
 
 <div align="center"> 
-  <a href="">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=&theme=tokyonight" />
+  <a href="https://github.com/marcoshsq/DS_Degree_Curriculum_Portfolio">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=DS_Degree_Curriculum_Portfolio&theme=tokyonight" />
   </a>
-  <a href="">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=&theme=tokyonight" />
+  <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=tokyonight" />
   </a>
 </div>
 

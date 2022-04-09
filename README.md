@@ -33,7 +33,6 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 <img align="center" alt="Marcos-PostgreSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="Marcos-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Marcos-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="Marcos-github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="center" alt="Marcos-numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="center" alt="Marcos-pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="center" alt="Marcos-tensorflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -67,7 +66,7 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 </div>
 
 <br>
-<!--
+
 <h2 align="left">⚡ Main Repositories:</h2>  
 
 <div align="center"> 
@@ -78,7 +77,7 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=tokyonight" />
   </a>
 </div>
--->
+
 ---
 
 ![xK](https://user-images.githubusercontent.com/64812097/159572273-0fc148a6-3594-480d-9204-fcd4a9effc46.gif)

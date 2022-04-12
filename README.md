@@ -58,8 +58,8 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
 
 <div align="center">
     <a href="https://linktr.ee/marcos_hsq">
-    <img height="200em"  width="48%" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="200em"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=8&theme=midnight-purple "/>   
+    <img height="280em"  width="48%" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="280em"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=8&theme=midnight-purple "/>   
         
 <div style="display: inline_block"> 
 

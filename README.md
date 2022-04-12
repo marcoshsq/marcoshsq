@@ -58,8 +58,8 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
 
 <div align="center">
     <a href="https://linktr.ee/marcos_hsq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=7&theme=highcontrast "/>   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=7&theme=midnight-purple "/>   
   <div style="display: inline_block"> 
 
   ![Snake animation](https://github.com/marcoshsq/marcoshsq/blob/output/github-contribution-grid-snake.svg)
@@ -71,10 +71,10 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
 
 <div align="center"> 
   <a href="https://github.com/marcoshsq/DS_Degree_Curriculum_Portfolio">
-  <img height="140em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=DS_Degree_Curriculum_Portfolio&theme=highcontrast" />
+  <img height="140em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=DS_Degree_Curriculum_Portfolio&theme=midnight-purple" />
   </a>
   <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-  <img height="140em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=highcontrast" />
+  <img height="140em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=midnight-purple" />
   </a>
 </div>
 

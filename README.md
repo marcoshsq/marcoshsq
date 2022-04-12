@@ -73,10 +73,10 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
 
 <div align="center"> 
   <a href="https://github.com/marcoshsq/DS_Degree_Curriculum_Portfolio">
-  <img height="140em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=DS_Degree_Curriculum_Portfolio&theme=midnight-purple" />
+  <img height="180em" width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=DS_Degree_Curriculum_Portfolio&theme=midnight-purple" />
   </a>
   <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-  <img height="140em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=midnight-purple" />
+  <img height="180em" width="180" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=midnight-purple" />
   </a>
 </div>
 

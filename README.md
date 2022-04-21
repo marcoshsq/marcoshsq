@@ -76,6 +76,28 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
 
 <br>
         
+<div align="center"> 
+  <a href="https://github.com/marcoshsq/Artificial_Intelligence_Projects">
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Artificial_Intelligence_Projects&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/marcoshsq/Programming_Projects">
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Programming_Projects&theme=tokyonight" />
+  </a>
+</div>
+ 
+<br>
+        
+<div align="center"> 
+  <a href="https://github.com/marcoshsq/Data_Analysis_Projects">
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Data_Analysis_Projects&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/marcoshsq/How_to_customize_your_profile">
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=How_to_customize_your_profile&theme=tokyonight" />
+  </a>
+</div>
+ 
+<br>
+       
 <h2 align="left">:sunglasses: The Future is Now:</h2>  
 
 ![xK](https://user-images.githubusercontent.com/64812097/159572273-0fc148a6-3594-480d-9204-fcd4a9effc46.gif)

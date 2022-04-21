@@ -52,8 +52,8 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
 
 <div align="center">
     <a href="https://linktr.ee/marcos_hsq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=8&theme=tokyonight "/>   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=8&theme=midnight-purple "/>   
         
 <div style="display: inline_block"> 
 
@@ -67,10 +67,10 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
 
 <div align="center"> 
   <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=My_Degree_in_Data_Science&theme=tokyonight" />
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=My_Degree_in_Data_Science&theme=midnight-purple" />
   </a>
   <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=tokyonight" />
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=midnight-purple" />
   </a>
 </div>
 
@@ -78,10 +78,10 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
         
 <div align="center"> 
   <a href="https://github.com/marcoshsq/Artificial_Intelligence_Projects">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Artificial_Intelligence_Projects&theme=tokyonight" />
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Artificial_Intelligence_Projects&theme=midnight-purple" />
   </a>
   <a href="https://github.com/marcoshsq/Programming_Projects">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Programming_Projects&theme=tokyonight" />
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Programming_Projects&theme=midnight-purple" />
   </a>
 </div>
  
@@ -89,10 +89,10 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
         
 <div align="center"> 
   <a href="https://github.com/marcoshsq/Data_Analysis_Projects">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Data_Analysis_Projects&theme=tokyonight" />
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Data_Analysis_Projects&theme=midnight-purple" />
   </a>
   <a href="https://github.com/marcoshsq/How_to_customize_your_profile">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=How_to_customize_your_profile&theme=tokyonight" />
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=How_to_customize_your_profile&theme=midnight-purple" />
   </a>
 </div>
  

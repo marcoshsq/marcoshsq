@@ -99,8 +99,13 @@ A civil engineer who decided to start a journey to become a Data Scientist, When
 <br>
        
 <h2 align="left">:sunglasses: The Future is Now:</h2>  
+        
+<div align="center">
+    <a href="https://linktr.ee/marcos_hsq">
 
 ![xK](https://user-images.githubusercontent.com/64812097/159572273-0fc148a6-3594-480d-9204-fcd4a9effc46.gif)
+
+</div>
 
 <hr>      
 

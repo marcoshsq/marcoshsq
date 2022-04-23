@@ -1,6 +1,8 @@
 <!--Começo 
 Cabeçalho-->
 
+<!--Link para as letrinhas que se escrevem: https://readme-typing-svg.herokuapp.com-->
+
 <div align="left">
 
 <h2 align="left">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h2>

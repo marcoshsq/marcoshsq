@@ -83,8 +83,8 @@ Github Stats-->
 
 <div align="center">
     <a href="https://linktr.ee/marcos_hsq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=8&theme=midnight-purple "/>   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=8&theme=nightowl  "/>   
         
 <div style="display: inline_block"> 
 
@@ -103,10 +103,10 @@ Github Stats-->
 
 <div align="center"> 
   <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=My_Degree_in_Data_Science&theme=midnight-purple" />
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=My_Degree_in_Data_Science&theme=nightowl " />
   </a>
   <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=midnight-purple" />
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=nightowl " />
   </a>
 </div>
 

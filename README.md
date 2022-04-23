@@ -5,7 +5,7 @@ Cabeçalho-->
 
 <h2 align="left">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold7&color=66FF66&lines=Passionate+about+Data!;Interested+in...;Artificial+Intelligence,;Data+Science,;Mathematics+and+Statistics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold7&color=F7F7F7&lines=Passionate+about+Data!;Interested+in...;Artificial+Intelligence,;Data+Science,;Mathematics+and+Statistics.)](https://git.io/typing-svg)
     
 </div>
 

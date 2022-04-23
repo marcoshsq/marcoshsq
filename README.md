@@ -97,8 +97,7 @@ Github Stats-->
   
 <br>
 
-<!--Extra Repos, 
-Dois Primeiros-->
+<!--Extra Repos: Dois Primeiros-->
 
 <h2 align="left">⚡ Main Repositories:</h2>  
 
@@ -112,10 +111,9 @@ Dois Primeiros-->
 </div>
 
 <br>
-        
-<!--Extra Repos, 
-Dois Meio-->
-        
+
+<!--Extra Repos: Dois Meio-->
+<!--      
 <div align="center"> 
   <a href="https://github.com/marcoshsq/Artificial_Intelligence_Projects">
   <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Artificial_Intelligence_Projects&theme=midnight-purple" />
@@ -124,12 +122,11 @@ Dois Meio-->
   <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Programming_Projects&theme=midnight-purple" />
   </a>
 </div>
- 
-<br>
-
-<!--Extra Repos, 
-Dois Últimos-->
+--> 
+<!--<br>-->
         
+<!--Extra Repos: Dois Últimos-->
+<!--      
 <div align="center"> 
   <a href="https://github.com/marcoshsq/Data_Analysis_Projects">
   <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Data_Analysis_Projects&theme=midnight-purple" />
@@ -138,8 +135,8 @@ Dois Últimos-->
   <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=How_to_customize_your_profile&theme=midnight-purple" />
   </a>
 </div>
- 
-<br>
+<br>        
+-->
         
 <!--The Future is Now u.u-->
        

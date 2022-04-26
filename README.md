@@ -102,8 +102,8 @@ Github Stats-->
 <h2 align="left">⚡ Main Repositories:</h2>  
 
 <div align="center"> 
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=My_Degree_in_Data_Science&theme=nightowl " />
+  <a href="https://github.com/marcoshsq/Courses_Certificates">
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Courses_Certificates&theme=nightowl " />
   </a>
   <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
   <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=nightowl " />

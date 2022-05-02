@@ -19,7 +19,7 @@ Sobre-->
 
 <h2 align="left">:page_with_curl: About me:</h2>
 
-A civil engineer who decided to start a journey to become a Data Scientist, When I found out that there is an area, where to be good, you need to be curious and like math, I fell in love right away. :heart_eyes: 
+A civil engineer who decided to start a journey to become a Data Scientist! When I found out that there is an area, where to be good, you need to be curious and like math, I fell in love right away. :heart_eyes: 
 
 <ul>
   <li>🔭 ...I'm currently seeking a Data Science/Analytics entry level job.</li>

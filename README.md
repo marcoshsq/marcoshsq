@@ -80,10 +80,9 @@ Social Media Icons-->
 <!--Fim 
 Social Media Icons-->
 
-<br>
 
 <!--Começo 
-Github Stats-->
+
 
 <h2 align="left">:chart_with_upwards_trend: Statistics:</h2>
 
@@ -98,7 +97,7 @@ Github Stats-->
     
 </div>
 
-<!--Fim 
+
 Github Stats-->
   
 <br>

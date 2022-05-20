@@ -147,6 +147,8 @@ Github Stats-->
        
 <h2 align="left">:sunglasses: The Future is Now:</h2>  -->
 
+![159572273-0fc148a6-3594-480d-9204-fcd4a9effc46](https://user-images.githubusercontent.com/64812097/169623716-d6ab0178-36fd-4b73-8df3-fa8c4ee7f481.gif)
+
 <div align="right">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)

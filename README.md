@@ -26,8 +26,8 @@ A civil engineer who decided to start a journey to become a Data Scientist! When
   <li>🌱 ...I’m currently studying Python and SQL.</li>
   <li>👯 ...I'm looking to collaborate on Open source projects that use Python.</li>
   <li>💬 ...Ask me about anything, if I can help, I'll be happy to do so.</li>
-  <li>🎮 ...My main hobby is listening to a lot of music.</li>
-  <li>📚 ...Fun fact: I'm Passionate about Cyberpunk! ❤️❤️❤️</li>
+  <li>🎮 ...Fun fact #1: I love music!</li>
+  <li>📚 ...Fun fact #2: I'm Passionate about Cyberpunk! ❤️❤️❤️</li>
   <li>💬 ...My discord ID is: marcoshsq#0571 If you want to chat.</li>
 </ul>
     

@@ -103,7 +103,7 @@ Github Stats-->
 <br>
 
 <!--Extra Repos: Dois Primeiros-->
-
+<!--
 <h2 align="left">⚡ Main Repositories:</h2>  
 
 <div align="center"> 
@@ -115,7 +115,7 @@ Github Stats-->
   </a>
 </div>
 
-<br>
+<br> -->
 
 <!--Extra Repos: Dois Meio-->
 <!--      

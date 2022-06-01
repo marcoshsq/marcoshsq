@@ -74,10 +74,10 @@ Social Media Icons-->
    <a href="https://instagram.com/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://medium.com/@marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> <!--
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-   <a href="https://public.tableau.com/app/profile/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
-</div>
+   <a href="https://public.tableau.com/app/profile/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a> 
+</div>-->
 
 <!--Fim 
 Social Media Icons-->
@@ -145,11 +145,11 @@ Github Stats-->
 <br>        
 -->
         
-<!--The Future is Now u.u  -->
+<!--The Future is Now u.u 
        
 <h2 align="left">:sunglasses: The Future is Now:</h2>
 
-![city_rain](https://github.com/marcoshsq/marcoshsq/blob/main/city_rain.gif)
+![city_rain](https://github.com/marcoshsq/marcoshsq/blob/main/city_rain.gif)  -->
 
 <div align="right">
 

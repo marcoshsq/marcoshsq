@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
 💻 - I'm a Civil engineer. <br>
 📚 - Seeking to land a Data Science job. <br>
-🎥 - I'm passionate about Cyberpunk!
+🎥 - I'm passionate about Sci-fi!
 </div>
 
 <div style="display: inline_block"><br>

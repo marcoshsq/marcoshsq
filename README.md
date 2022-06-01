@@ -6,9 +6,9 @@
 
 <hr><img align="right" width="250" src="https://c.tenor.com/CMJC5rbyCSEAAAAC/rickandmorty-run-the-jewels.gif"/>
 <div style="display: inline_block"><br>
-:hammer_and_wrench: - I'm a Civil engineer. <br>
-💻 - Seeking to land a Data Science job. <br>
-📚 - I'm passionate about Sci-fi!
+:hammer_and_wrench: - Civil engineer. <br>
+💻 - Seeking to land a Data Science role. <br>
+📚 - Passionate about Sci-fi!
 </div>
 
 <div style="display: inline_block"><br>

@@ -6,7 +6,7 @@
     
 </div>
 
-<hr><img align="right" width="300" src="https://c.tenor.com/CMJC5rbyCSEAAAAC/rickandmorty-run-the-jewels.gif"/>
+<hr><img align="right" width="250" src="https://c.tenor.com/CMJC5rbyCSEAAAAC/rickandmorty-run-the-jewels.gif"/>
 <div style="display: inline_block"><br>
 💻 - I'm a Civil engineer. <br>
 📚 - Seeking to land a Data Science job. <br>

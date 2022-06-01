@@ -1,8 +1,3 @@
-<!--Começo 
-Cabeçalho-->
-
-<!--Link para as letrinhas que se escrevem: https://readme-typing-svg.herokuapp.com-->
-
 <div align="left">
 
 <h2 align="left">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h2>
@@ -11,83 +6,22 @@ Cabeçalho-->
     
 </div>
 
-<!--Fim 
-Cabeçalho-->
+<hr><img align="right" width="300" src="https://c.tenor.com/CMJC5rbyCSEAAAAC/rickandmorty-run-the-jewels.gif"/>
+<div style="display: inline_block"><br>
+💻 - I'm a Civil engineer. <br>
+📚 - Seeking to land a Data Science job. <br>
+🎥 - I'm passionate about Cyberpunk!
+</div>
 
-<!--Começo 
-Sobre-->
-
-<h2 align="left">:page_with_curl: About me:</h2>
-
-A civil engineer who decided to start a journey to become a Data Scientist! When I found out that there is an area, where to be good, you need to be curious and like math, I fell in love right away. :heart_eyes: 
-
-<ul>
-  <li>🔭 ...I'm currently seeking a Data Science/Analytics entry level job.</li>
-  <li>🌱 ...I’m currently studying Python and SQL.</li>
-  <li>👯 ...I'm looking to collaborate on Open source projects that use Python.</li>
-  <li>💬 ...Ask me about anything, if I can help, I'll be happy to do so.</li>
-  <li>🎮 ...Fun fact #1: I love music!</li>
-  <li>📚 ...Fun fact #2: I'm Passionate about Cyberpunk! ❤️❤️❤️</li>
-  <li>💬 ...My discord ID is: marcoshsq#0571 If you want to chat.</li>
-</ul>
-    
-<!--Fim 
-Sobre-->
-
-<br>
-
-<!--Começo 
-Tech Icons-->
-<!--
-<h2 align="left">:hammer_and_wrench: Technologies and tools:</h2>
-
-<div align="left">
-<img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="center" alt="Marcos-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-    <!--
-<img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Marcos-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Marcos-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Marcos-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
---><!--
-<img align="center" alt="Marcos-PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="center" alt="Marcos-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Marcos-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="Marcos-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="center" alt="Marcos-NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="center" alt="Marcos-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-</div> 
-<br>
--->
-
-<!--Fim 
-Tech Icons-->
-
-
-
-<!--Começo 
-Social Media Icons-->
-
-<h2 align="left">💬 You can find me:</h2>
-
- <div align="left"> 
-   <a href="https://instagram.com/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<div style="display: inline_block"><br>
+  <a href="https://instagram.com/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://medium.com/@marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> <!--
-  <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-   <a href="https://public.tableau.com/app/profile/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a> 
-</div>-->
+  <a href="https://medium.com/@marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
+</div>
+<hr>
 
-<!--Fim 
-Social Media Icons-->
-
-
-<!--Começo 
-
-
-<h2 align="left">:chart_with_upwards_trend: Statistics:</h2>
-
+<!--<h2 align="left">:chart_with_upwards_trend: Statistics:</h2>-->
 <div align="center">
     <a href="https://linktr.ee/marcos_hsq">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
@@ -98,58 +32,8 @@ Social Media Icons-->
   ![Snake animation](https://github.com/marcoshsq/marcoshsq/blob/output/github-contribution-grid-snake.svg)
     
 </div>
-
-
-Github Stats-->
   
-<br>
-
-<!--Extra Repos: Dois Primeiros-->
-<!--
-<h2 align="left">⚡ Main Repositories:</h2>  
-
-<div align="center"> 
-  <a href="https://github.com/marcoshsq/Courses_Certificates">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Courses_Certificates&theme=nightowl " />
-  </a>
-  <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=nightowl " />
-  </a>
-</div>
-
-<br> -->
-
-<!--Extra Repos: Dois Meio-->
-<!--      
-<div align="center"> 
-  <a href="https://github.com/marcoshsq/Artificial_Intelligence_Projects">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Artificial_Intelligence_Projects&theme=midnight-purple" />
-  </a>
-  <a href="https://github.com/marcoshsq/Programming_Projects">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Programming_Projects&theme=midnight-purple" />
-  </a>
-</div>
---> 
-<!--<br>-->
-        
-<!--Extra Repos: Dois Últimos-->
-<!--      
-<div align="center"> 
-  <a href="https://github.com/marcoshsq/Data_Analysis_Projects">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Data_Analysis_Projects&theme=midnight-purple" />
-  </a>
-  <a href="https://github.com/marcoshsq/How_to_customize_your_profile">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=How_to_customize_your_profile&theme=midnight-purple" />
-  </a>
-</div>
-<br>        
--->
-        
-<!--The Future is Now u.u 
-       
-<h2 align="left">:sunglasses: The Future is Now:</h2>
-
-![city_rain](https://github.com/marcoshsq/marcoshsq/blob/main/city_rain.gif)  -->
+<br>    
 
 <div align="right">
 

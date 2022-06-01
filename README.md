@@ -1,6 +1,6 @@
-<div>
+<div align="center">
 
-<h3 align="center">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h3>
+<h2 align="center">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h2>
 
 </div>
 <!--

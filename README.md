@@ -1,5 +1,11 @@
 <div align="center">
 
+  ![gif_image](https://media.giphy.com/media/uBTWyINWTrWz6/giphy.gif)
+
+</div>
+
+<div align="center">
+
 <h2 align="center">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h2>
 
 </div>

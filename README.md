@@ -10,7 +10,7 @@
 
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><img align="right" src="https://c.tenor.com/CMJC5rbyCSEAAAAC/rickandmorty-run-the-jewels.gif" width="250"/>
 <div align="left">
 <img align="center" alt="Marcos-Python" height="" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="center" alt="Marcos-Javascript" height="" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

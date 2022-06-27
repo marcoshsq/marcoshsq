@@ -1,8 +1,10 @@
+<!--
 <p align="center">
  <a href="https://github.com/marcoshsq">    
-  <img src="https://c.tenor.com/CMJC5rbyCSEAAAAC/rickandmorty-run-the-jewels.gif" width="100%"/>
+  <img src="" width="100%"/>
  </a>
 </p>  
+-->
 
 <div align="center">
 

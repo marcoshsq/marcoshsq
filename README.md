@@ -8,11 +8,10 @@
 
 <div align="center">
 
-<h2 align="left">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h2>
+<h2 align="left">Hi :wave:, welcome to my Github profile! :vulcan_salute:</h2>
 
 </div>
-
-<div style="display: inline_block"><br><img align="right" src="https://c.tenor.com/CMJC5rbyCSEAAAAC/rickandmorty-run-the-jewels.gif" width="250"/>
+<div style="display: inline_block"><br>
 <div align="left">
 <img align="center" alt="Marcos-Python" height="" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="center" alt="Marcos-Javascript" height="" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -24,9 +23,7 @@
 <img align="center" alt="Marcos-PostgreSql" height="" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 </div>
 
-##
-
-<div align="left" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <a href="https://instagram.com/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -34,8 +31,8 @@
 </div>
  
 ##
+ 
 <br>
-
 <!--<h2 align="left">:chart_with_upwards_trend: Statistics:</h2>-->
 <div align="center">
     <a href="https://linktr.ee/marcos_hsq">

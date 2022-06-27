@@ -1,6 +1,6 @@
  <p align="center">
-  <a href="https://github.com/marcoshsq">
-    <img src="https://media.giphy.com/media/uBTWyINWTrWz6/giphy.gif" width="100%" height=""/>
+  <a href="https://github.com/marcoshsq">    
+   <img src="https://c.tenor.com/CMJC5rbyCSEAAAAC/rickandmorty-run-the-jewels.gif" width="100%"/>
   </a>
 </p>
   
@@ -10,10 +10,9 @@
 <h2 align="center">Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:</h2>
 
 </div>
-<!--
-<hr><img align="right" width="250" src="https://c.tenor.com/CMJC5rbyCSEAAAAC/rickandmorty-run-the-jewels.gif"/>
+
 <div style="display: inline_block"><br>
-<div align="left">
+<div align="center">
 <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="center" alt="Marcos-PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="Marcos-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -21,7 +20,8 @@
 <img align="center" alt="Marcos-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="center" alt="Marcos-NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 </div>
--->
+
+##
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://instagram.com/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

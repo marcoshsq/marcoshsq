@@ -1,10 +1,8 @@
-<!--
 <p align="center">
  <a href="https://github.com/marcoshsq">    
-  <img src="" width="100%"/>
+  <img src="https://i.imgur.com/1ZvVkDc.gif" width="100%"/>
  </a>
-</p>  
--->
+</p>
 
 <h2 align="center">Hi :wave:, welcome to my Github profile! :vulcan_salute:</h2>
 

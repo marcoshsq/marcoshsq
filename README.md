@@ -40,7 +40,8 @@
 <div align="center">
     <a href="https://linktr.ee/marcos_hsq">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=nightowl  "/>   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&layout=compact&langs_count=8&theme=nightowl  "/>   
+<!--&hide=jupyter%20notebook-->
         
 <div style="display: inline_block"> 
 

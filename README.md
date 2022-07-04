@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Hi :wave:, welcome to my Github profile! :vulcan_salute:</h2>
-
+<br> 
 <div align="center">
     <a href="https://linktr.ee/marcos_hsq">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
@@ -16,9 +16,7 @@
   ![Snake animation](https://github.com/marcoshsq/marcoshsq/blob/output/github-contribution-grid-snake.svg)
     
 </div>
-  
 <br>    
-
 <div align="right">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)

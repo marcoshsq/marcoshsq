@@ -1,7 +1,3 @@
-Work in progress...
-
-<!--
-
 <p align="center">
  <a href="https://github.com/marcoshsq">    
   <img src="https://i.imgur.com/1ZvVkDc.gif" width="100%"/>
@@ -27,5 +23,3 @@ Work in progress...
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)
 
 </div>
-
--->

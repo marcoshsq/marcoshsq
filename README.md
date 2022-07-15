@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://github.com/marcoshsq">    
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/uBTWyINWTrWz6/giphy.gif" width="100%"/>
  </a>
 </p>
 <br> 
@@ -9,8 +9,8 @@
 <div align="center">
 
    <a href="https://linktr.ee/marcos_hsq">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=github_dark  "/>   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshsq&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=material-palenight  "/>   
        
 <div style="display: inline_block"> 
 

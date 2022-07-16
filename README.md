@@ -7,6 +7,7 @@
 <h2 align="center">Hi :wave:, welcome to my Github profile! :vulcan_salute:</h2>
 <div align="center" style="display: inline_block"><br>
 <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
+  <a href = "https://medium.com/@marcoshsq"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
   <a href = "https://www.kaggle.com/marcoshsq"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

@@ -6,6 +6,12 @@
 <br> 
 <h2 align="center">Hi :wave:, welcome to my Github profile! :vulcan_salute:</h2>
 <div align="center" style="display: inline_block"><br>
+<a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.kaggle.com/marcoshsq"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<!--
 <a href="https://github.com/marcoshsq">   
   <img align="center" alt="HSQ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HSQ-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
@@ -15,6 +21,7 @@
   <img align="center" alt="HSQ-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="HSQ-Pg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
+-->
 
 ##
 

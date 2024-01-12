@@ -1,4 +1,4 @@
-## Bem-vindo ao Meu Perfil do GitHub! 👋
+## Welcome to My GitHub Profile! 👋
 
 Hello, I'm Marcos, a civil engineer and statistician passionate about data and artificial intelligence. I currently work as a Business Analyst, and I am studying technologies to become a data scientist.
 

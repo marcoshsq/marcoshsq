@@ -26,6 +26,9 @@ Hello, I'm Marcos, a civil engineer and statistician passionate about data and a
   
 </div>
 
+<br>
+<br>
+
 <div align="right">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)

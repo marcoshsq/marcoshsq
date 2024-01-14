@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Marcos, a civil engineer and statistician passionate about data and tech. 
 
-Welcome to My GitHub Profile! I currently work as a Business Analyst, and I'm currently studying technologies to learn data science and artificial intelligence.
+Welcome to My GitHub Profile! I currently work as a Business Analyst, and I'm studying technologies to learn data science and artificial intelligence.
 
 <div style="display: inline_block"  align="left"><br>
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

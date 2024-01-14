@@ -1,4 +1,4 @@
-## Hello 👋, I'm Marcos, a civil engineer and statistician passionate about data and artificial intelligence. 
+## Hello 👋, I'm Marcos, a civil engineer and statistician passionate about data and tech. 
 
 Welcome to My GitHub Profile! I currently work as a Business Analyst, and I'm currently studying technologies to learn data science and artificial intelligence.
 

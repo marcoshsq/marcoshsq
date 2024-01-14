@@ -29,6 +29,13 @@ Hello, I'm Marcos, a civil engineer and statistician passionate about data and a
 
 <br>
 
+<div style="display: flex; justify-content: space-between; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&theme=github_dark&langs_count=5&hide=jupyter%20notebook&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoshsq&theme=github_dark&line_height=20&rank_icon=percentile" />
+</div>
+
+<br>
+
 <div align="right">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=𝑺𝑬𝑬+𝒀𝑶𝑼+𝑺𝑷𝑨𝑪𝑬+𝑪𝑶𝑾𝑩𝑶𝒀...)](https://git.io/typing-svg)

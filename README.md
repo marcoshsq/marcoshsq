@@ -1,8 +1,8 @@
-## Welcome to My GitHub Profile! 👋
+## Hello 👋, I'm Marcos, a civil engineer and statistician passionate about data and artificial intelligence. 
 
-Hello, I'm Marcos, a civil engineer and statistician passionate about data and artificial intelligence. I currently work as a Business Analyst, and I am studying technologies to become a data scientist.
+Welcome to My GitHub Profile! I currently work as a Business Analyst, and I'm currently studying technologies to learn data science and artificial intelligence.
 
-<div style="display: inline_block"  align="center"><br>
+<div style="display: inline_block"  align="left"><br>
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcos-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -18,7 +18,7 @@ Hello, I'm Marcos, a civil engineer and statistician passionate about data and a
   
 ## 
  
-<div align="center"> 
+<div align="left"> 
   <a href="https://x.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
@@ -27,6 +27,7 @@ Hello, I'm Marcos, a civil engineer and statistician passionate about data and a
   <a href = "mailto:marcoshsq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<!--
 <br>
 
 <div style="display: flex; height: 200px" align="center">
@@ -34,7 +35,7 @@ Hello, I'm Marcos, a civil engineer and statistician passionate about data and a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshsq&theme=github_dark&langs_count=5&hide=jupyter%20notebook&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=marcoshsq&theme=github_dark&line_height=20&rank_icon=percentile" />
   </a>
-</div>
+</div>-->
 
 <br>
 

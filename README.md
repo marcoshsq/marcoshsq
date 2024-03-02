@@ -1,6 +1,8 @@
 ## Hello 👋, I'm Marcos, an engineer and statistician passionate about data and tech. 
 
-Welcome to my GitHub profile! I currently work as a Business Analyst focusing on Performance and Affiliate Marketing, I'm also studying data science and artificial intelligence, to improve myself as an analyst.
+Welcome to my GitHub profile! I currently work as a Business Analyst focusing on Performance and Affiliate Marketing, I'm also studying data science and artificial intelligence, to improve my analytical skills.
+
+Feel free to contact me, I love talking about technology, maths, and other nerdy stuff!
 
 <!--
 

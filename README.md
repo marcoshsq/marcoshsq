@@ -14,8 +14,6 @@ Feel free to contact me, I love talking about technology, maths, and other nerdy
   <img align="center" alt="Marcos-Airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
   <img align="center" alt="Marcos-PSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
   <img align="center" alt="Marcos-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Marcos_AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-
   
 </div>
   

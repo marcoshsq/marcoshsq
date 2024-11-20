@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I currently work as a Business Analyst focusing on
 Feel free to contact me, I love talking about technology, maths, and other nerdy stuff!
 
 
+<!--
 
 <div style="display: inline_block"  align="left"><br>
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,8 +19,6 @@ Feel free to contact me, I love talking about technology, maths, and other nerdy
 </div>
   
 ## 
-
-<!--
  
 <div align="left"> 
   <a href="https://x.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>

@@ -1,5 +1,5 @@
 <a href="https://github.com/seu-usuario">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa295cWw2cnl6MnUwOG9zMW5oazA3bzVjY2JvM25oM25qOWs0d3NuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fygfeYhDOPrhTOHZ7v/giphy.gif" alt="Capa" width="100%" />
+  <img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="Capa" width="100%" />
 </a>
 
 ## Hello 👋, I'm Marcos, an engineer and statistician passionate about data and tech. 

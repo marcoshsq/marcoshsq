@@ -1,5 +1,4 @@
-[a](https://github.com/marcoshsq)
-![Capa](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25rY3BuaHl4aDFqeGVpa2psejYyY2docDJ2a3dmenB1enAyanU5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nHY1wHrIUGgo/giphy.gif)
+![Capa](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa295cWw2cnl6MnUwOG9zMW5oazA3bzVjY2JvM25oM25qOWs0d3NuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fygfeYhDOPrhTOHZ7v/giphy.gif)
 
 ## Hello 👋, I'm Marcos, an engineer and statistician passionate about data and tech. 
 

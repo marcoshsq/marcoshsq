@@ -10,7 +10,7 @@
 Currently working as a **Business Intelligence Analyst** in the affiliate marketing sector, with a focus on **performance analytics**, **fraud detection**, and **conversion tracking**.
 
 > 👇 Check out my latest curated learning program on Digital Marketing Analytics & BI:
-> [Digital Marketing & BI Self-Taught Curriculum](https://github.com/marcoshsq/Digital-Marketing-Analytics-SelfTaught)
+> [Digital Marketing & BI Self-Taught Curriculum](https://github.com/marcoshsq/The_Self-Taught_Marketing_Analyst)
 
 I'm also pursuing studies in **Data Science** and **Artificial Intelligence** to sharpen my analytical thinking. Feel free to contact me, I love talking about technology, data, marketing and other nerdy stuff!
 

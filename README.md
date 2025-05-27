@@ -1,5 +1,5 @@
 <a href="https://github.com/marcoshsq">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmp5ZzcwOTFlOW53NXhkajAyOTB6YmI0ZmR6YmMzNHQ0NXB5dHdlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBTWyINWTrWz6/giphy.gif" alt="Capa" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI2YmIxZXFhN2F3MjJqNHE1MGJ2aDdkaWxmejRqMmJyamhlY2h4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Capa" width="100%" />
 </a>
 
 ## Hello 👋, I'm Marcos, an engineer and statistician passionate about data and tech. 

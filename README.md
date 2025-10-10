@@ -7,7 +7,7 @@
 
 ## Hello 👋, I'm Marcos, an engineer and statistician passionate about data and tech. 
 
-Currently working as a **Business Intelligence Analyst** in the affiliate marketing sector, with a focus on **performance analytics**, **fraud detection**, and **conversion tracking**.
+Currently working as a **Business Intelligence Analyst** in the affiliate marketing industry, with a focus on **performance analytics**, **fraud detection**, and **conversion tracking**.
 
 I'm also pursuing studies in **Data Science** and **Artificial Intelligence** to sharpen my analytical thinking. Feel free to contact me, I love talking about technology, data, marketing and other nerdy stuff!
 

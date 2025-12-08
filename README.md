@@ -25,6 +25,7 @@ I'm also pursuing studies in **Data Science** and **Artificial Intelligence** to
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Appsflyer](https://img.shields.io/badge/Appsflyer-42B883?style=for-the-badge&logo=databricks&logoColor=white)
 
+<!--
 ### 📊 GitHub Stats & Most Used Languages
 
 <div align="center">
@@ -39,6 +40,7 @@ I'm also pursuing studies in **Data Science** and **Artificial Intelligence** to
     </tr>
   </table>
 </div>
+-->
 
 <br>
 

@@ -5,11 +5,15 @@
 
 ---
 
-## Hello 👋, I'm Marcos, an engineer and statistician passionate about data and tech. 
+## Hello 👋, I'm Marcos
 
-Currently working as a **Business Intelligence Analyst** in the affiliate marketing industry, with a focus on **performance analytics**, **fraud detection**, and **conversion tracking**.
+I'm a Business Intelligence Analyst with a background in Civil Engineering and ongoing studies in Statistics, passionate about data, technology, and analytical problem-solving.
 
-I'm also pursuing studies in **Data Science** and **Artificial Intelligence** to sharpen my analytical thinking. Feel free to contact me, I love talking about technology, data, marketing and other nerdy stuff!
+Currently, I work in the affiliate marketing industry, focusing on performance analytics, fraud detection, conversion tracking, and data-driven decision-making.
+
+I'm also expanding my knowledge in Data Science, Artificial Intelligence, SQL, Python, and cloud data solutions.
+
+Feel free to connect with me — I enjoy talking about technology, data, marketing, analytics, and other nerdy stuff!
 
 ---
 
